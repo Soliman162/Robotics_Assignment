@@ -116,6 +116,3 @@ Trans = np.array([5,3,0])
 H_3_0 = Transformation_matrix(ROT_Z,Trans)
 print("H_3_0 = \n",H_3_0)
 trplot(H_3_0,frame=2, line="-.", color="black")
-
-
-
